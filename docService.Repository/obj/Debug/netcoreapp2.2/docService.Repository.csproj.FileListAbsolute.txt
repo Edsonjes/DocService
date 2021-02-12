@@ -1,0 +1,12 @@
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.csprojAssemblyReference.cache
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.csproj.CoreCompileInputs.cache
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.AssemblyInfoInputs.cache
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.AssemblyInfo.cs
+D:\App\DocService\docService.Repository\bin\Debug\netcoreapp2.2\docService.Repository.deps.json
+D:\App\DocService\docService.Repository\bin\Debug\netcoreapp2.2\docService.Repository.dll
+D:\App\DocService\docService.Repository\bin\Debug\netcoreapp2.2\docService.Repository.pdb
+D:\App\DocService\docService.Repository\bin\Debug\netcoreapp2.2\DocService.Domain.dll
+D:\App\DocService\docService.Repository\bin\Debug\netcoreapp2.2\DocService.Domain.pdb
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.csproj.CopyComplete
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.dll
+D:\App\DocService\docService.Repository\obj\Debug\netcoreapp2.2\docService.Repository.pdb

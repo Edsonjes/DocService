@@ -1,0 +1,9 @@
+D:\App\DocService\docService.Domain\obj\Debug\netcoreapp2.2\docService.Domain.csprojAssemblyReference.cache
+D:\App\DocService\docService.Domain\obj\Debug\netcoreapp2.2\docService.Domain.csproj.CoreCompileInputs.cache
+D:\App\DocService\docService.Domain\obj\Debug\netcoreapp2.2\docService.Domain.AssemblyInfoInputs.cache
+D:\App\DocService\docService.Domain\obj\Debug\netcoreapp2.2\docService.Domain.AssemblyInfo.cs
+D:\App\DocService\docService.Domain\bin\Debug\netcoreapp2.2\docService.Domain.deps.json
+D:\App\DocService\docService.Domain\bin\Debug\netcoreapp2.2\docService.Domain.dll
+D:\App\DocService\docService.Domain\bin\Debug\netcoreapp2.2\docService.Domain.pdb
+D:\App\DocService\docService.Domain\obj\Debug\netcoreapp2.2\docService.Domain.dll
+D:\App\DocService\docService.Domain\obj\Debug\netcoreapp2.2\docService.Domain.pdb
